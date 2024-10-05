@@ -1,0 +1,10 @@
+print(" ")
+print("Dylan Aaron Elicserio Martínez 3°W")
+print(" ")
+lista = ["43", "57", "92", "20", "37", "5", "9"]
+lista.sort()
+print(lista)
+print("este es el menor de los precios:")
+print(lista[3])
+print("este es el mayor de los precios:")
+print(lista[6])
